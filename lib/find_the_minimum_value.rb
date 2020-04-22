@@ -8,5 +8,5 @@ def find_min_value(array)
         end
       i+=1
   end
-  return currentValuer 
+  return currentValue
 end
